@@ -33,6 +33,7 @@ function App() {
     <form onSubmit={(event) => {
       event.preventDefault();
       console.log(formik.values);
+      alert('Olha o console!');
     }}
     >
       <div className="formField">
