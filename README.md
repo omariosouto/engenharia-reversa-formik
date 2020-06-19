@@ -5,7 +5,7 @@
 
 > [Vídeo](https://youtu.be/cMq6k7ymv2s)
 > 
-> Quer ver como ta ficando? Acessa a [**DEMO**](https://mariosouto.com/engenharia-reversa-formik/)
+> Quer ver como ta ficando? Acessa a [**DEMO**](https://engenharia-reversa-formik.vercel.app/)
 
 ## Contributing/Contribuir
 Quer contribuir com o projeto? [Confira o passo a passo](./CONTRIBUTING.md)
