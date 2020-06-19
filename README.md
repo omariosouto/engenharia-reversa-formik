@@ -1,7 +1,7 @@
 # Formik Engenharia Reversa: Dev Soutinho 
 
 [![Série](https://img.shields.io/badge/DevSoutinho-Formik%20%23EngenhariaReversa-orange)](https://youtu.be/cMq6k7ymv2s)
-[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/afonsopacifer/open-source-boilerplate/blob/master/LICENSE.md)
+![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)
 
 > [Vídeo](https://youtu.be/cMq6k7ymv2s)
 > 
@@ -9,7 +9,6 @@
 
 ## Contributing/Contribuir
 Quer contribuir com o projeto? [Confira o passo a passo](./CONTRIBUTING.md)
-Quer ver o que está por vir? [Acompanhe aqui](https://github.com/omariosouto/engenharia-reversa-formik/projects)
 
 ## Versioning/Versionamento
 
