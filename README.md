@@ -1,6 +1,6 @@
 # Formik Engenharia Reversa: Dev Soutinho 
 
-[![Série](https://img.shields.io/badge/DevSoutinho-Formik%20EngenhariaReversa-orange)](https://www.youtube.com/watch?v=jOAU81jdi-c&list=PLTcmLKdIkOWmeNferJ292VYKBXydGeDej)
+[![Série](https://img.shields.io/badge/DevSoutinho-Formik%20#EngenhariaReversa-orange)](https://www.youtube.com/watch?v=jOAU81jdi-c&list=PLTcmLKdIkOWmeNferJ292VYKBXydGeDej)
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/afonsopacifer/open-source-boilerplate/blob/master/LICENSE.md)
 
 > [Vídeo](https://www.youtube.com/watch?v=jOAU81jdi-c&list=PLTcmLKdIkOWmeNferJ292VYKBXydGeDej)
