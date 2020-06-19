@@ -1,9 +1,9 @@
 # Formik Engenharia Reversa: Dev Soutinho 
 
-[![Série](https://img.shields.io/badge/DevSoutinho-Formik%20#EngenhariaReversa-orange)](https://www.youtube.com/watch?v=jOAU81jdi-c&list=PLTcmLKdIkOWmeNferJ292VYKBXydGeDej)
+[![Série](https://img.shields.io/badge/DevSoutinho-Formik%20%23EngenhariaReversa-orange)](https://youtu.be/cMq6k7ymv2s)
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/afonsopacifer/open-source-boilerplate/blob/master/LICENSE.md)
 
-> [Vídeo](https://www.youtube.com/watch?v=jOAU81jdi-c&list=PLTcmLKdIkOWmeNferJ292VYKBXydGeDej)
+> [Vídeo](https://youtu.be/cMq6k7ymv2s)
 > 
 > Quer ver como ta ficando? Acessa a [**DEMO**](https://mariosouto.com/engenharia-reversa-formik/)
 
