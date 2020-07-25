@@ -3,9 +3,9 @@
 [![Série](https://img.shields.io/badge/DevSoutinho-Formik%20%23EngenhariaReversa-orange)](https://youtu.be/cMq6k7ymv2s)
 ![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)
 
-> [Vídeo](https://youtu.be/cMq6k7ymv2s)
+> [Vídeo fazendo o código do repositório](https://youtu.be/cMq6k7ymv2s)
 > 
-> Quer ver como ta ficando? Acessa a [**DEMO**](https://mariosouto.com/engenharia-reversa-formik/)
+> Quer ver como ta ficando? Acessa a [**DEMO**](https://engenharia-reversa-formik.vercel.app/)
 
 ## Contributing/Contribuir
 Quer contribuir com o projeto? [Confira o passo a passo](./CONTRIBUTING.md)
